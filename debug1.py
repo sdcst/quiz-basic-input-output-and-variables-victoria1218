@@ -4,4 +4,4 @@ Debug this program so that it runs
 """
 
 x = 2
-print(x)
+print(f"{x}")
